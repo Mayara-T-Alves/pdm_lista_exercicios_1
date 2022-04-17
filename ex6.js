@@ -1,0 +1,1 @@
+/*6. Refaça o exercício 5 usando a construção async/await.*/

@@ -1,0 +1,15 @@
+{
+  "name": "20221_fatec_ipi_pdm_lista_exercicios_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pacote": "^13.1.1"
+  }
+}
